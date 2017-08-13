@@ -1,7 +1,7 @@
 # Dirty sript for saving images from imgur.com
 ---
 
-Should work on Python 2.7, but I didn't check.
+Should work on Python 2.7, but I didn't check. It's time to use Python3 anyway.
 
 ### Install requerements
 

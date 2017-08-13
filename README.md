@@ -12,3 +12,8 @@ Should work on Python 2.7, but I didn't check. It's time to use Python3 anyway.
  > python robot_please_save_images_for_me.py https://imgur.com/t/wallpaper_dump/C2iHj
 
 Because, you know, you have to be nice to robots.
+
+Want to save a collection of Rick and Marty wallpapers? Run the script
+without arguments
+
+> python robot_please_save_images_for_me.py
